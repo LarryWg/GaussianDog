@@ -1,0 +1,6 @@
+numpy==1.23.5
+scipy==1.10.1
+Pillow==10.4.0
+trimesh==4.3.2
+plyfile==1.0.3
+gsplat==1.5.3

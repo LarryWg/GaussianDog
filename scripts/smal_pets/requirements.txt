@@ -1,0 +1,4 @@
+gsplat==1.5.3
+plyfile==1.0.3
+Pillow==10.4.0
+trimesh==4.3.2
