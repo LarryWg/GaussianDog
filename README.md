@@ -21,7 +21,7 @@ This repository is an independent implementation of the reconstruction and bindi
 
 <p align="center"><b>Single photo → standing reference → animatable Gaussian dog</b></p>
 
-**[Watch the 54-second animation demo](docs/media/gaussian-dog-demo.mp4)** showing a full 360-degree body rotation followed by all twelve available actions.
+**[Watch the 66-second animation demo](docs/media/gaussian-dog-demo.mp4)** showing a full 360-degree body rotation, all twelve actions, the fitted mesh, and the 35-joint skeleton.
 
 ## What it produces
 
