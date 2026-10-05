@@ -21,7 +21,7 @@ This repository is an independent implementation of the reconstruction and bindi
 
 <p align="center"><b>Single photo → standing reference → animatable Gaussian dog</b></p>
 
-**[Watch the 54-second project demo](docs/media/gaussian-dog-demo.mp4)** to see how my open source generator turns a photograph into an animatable model, followed by live actions, mesh inspection, and Gaussian rendering.
+**[Watch the 43-second animation demo](docs/media/gaussian-dog-demo.mp4)** showing the generated Gaussian dog performing all twelve available actions.
 
 ## What it produces
 
