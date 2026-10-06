@@ -7,7 +7,6 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![CUDA 11.8](https://img.shields.io/badge/CUDA-11.8-76B900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![Research use](https://img.shields.io/badge/BITE-research%20use%20only-orange)](https://github.com/runa91/bite_release/blob/master/LICENSE)
-[![Checks](https://github.com/LarryWg/GaussianDog/actions/workflows/checks.yml/badge.svg)](https://github.com/LarryWg/GaussianDog/actions/workflows/checks.yml)
 
 GaussianDog combines a fitted dog body with a detailed 3D Gaussian coat. It starts from a single photograph, estimates anatomy with [BITE](https://github.com/runa91/bite_release) and D-SMAL, generates a 3D appearance proxy with [TRELLIS](https://github.com/microsoft/TRELLIS), then optimizes and binds the Gaussians to the animatable surface.
 
